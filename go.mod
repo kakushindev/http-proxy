@@ -3,7 +3,7 @@ module golang-template
 go 1.25.0
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.15
+	github.com/gofiber/fiber/v3 v3.5.0
 	github.com/gofiber/fiber/v3 v3.5.0
 )
 
